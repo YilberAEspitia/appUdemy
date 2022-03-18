@@ -1,8 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+	  <Description>Aplicación de consola</Description>
+	  <Authors>Yilber Espitia</Authors>
+	  <Company>Gran titan</Company>
+	  <Product>Test</Product>
   </PropertyGroup>
 
   <ItemGroup>
